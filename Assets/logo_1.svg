@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="650" style="display: block; margin: auto;">
+      <g transform="translate(0, 100)">
+        <circle cx="300" cy="300" r="240" fill="green" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="blue" font-size="150">hi</text>
+      </g>
+    </svg>
