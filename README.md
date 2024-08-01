@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Description](#description)
 - [Video](#Video)
-- [Usage](#usage & Setup)
-- (#github & email)
+- [Usage](#usage&Setup)
+- [GitHub and Email](#github&email)
 
 ## App Description
 This is a SVG Logo Maker that allows you to select a color, shape provide text for the logo and save the generated SVG to a logo.svg file.
